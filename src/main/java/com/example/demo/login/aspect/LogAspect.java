@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 @Aspect
 @Component
-public class LogAspct {
+public class LogAspect {
 
     /**
      * コントローラークラスのログ出力用アスペクト.
